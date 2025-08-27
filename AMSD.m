@@ -1,12 +1,5 @@
 function re = AMSD(ms, pan, csc, rul, le, sd)
-    % 多光谱数据与全色影像融合函数
-    % 输入参数：
-    % ms - 多光谱图像
-    % pan - 全色图像
-    % csc - 颜色空间 ('hsi', 'hsv', 'lab', 'yuv', 'hsl')
-    % rul - 融合规则 ('av' 平均, 'max' 最大值, 'energy' 区域能量)
-    % le - 层数，默认为4
-    % sd - 标准差，默认为1
+
 
     % 参数检查和默认值设置
     if nargin < 2 || nargin > 6
@@ -108,3 +101,4 @@ function re = AMSD(ms, pan, csc, rul, le, sd)
     elapsed_time = toc;
     fprintf('Total processing time: %.2f seconds.\n', elapsed_time);
 end
+
