@@ -11,4 +11,4 @@ The structure of **SGAFusion** is illustrated in the figure below:
 
 ![image](https://github.com/Wohaizainuli/An-Adaptive-Multi-Scale-Decomposition-Fusion-Method/blob/main/Figure/1.jpg)
 
-*Fig. 1: Overall Architecture.
+*Fig. 1: Overall Architecture.*
