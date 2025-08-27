@@ -20,7 +20,10 @@ The dataset used in this paper is a non-public dataset, which may involve the ri
 The code repository only provides 7 pairs of MS-PAN images in `Image/` for communication, learning, and discussion.The seven pairs of MS-PAN images provided are generated through smoothing and grayscale transformation techniques to create  simulated images.
 
 ## 🔹 Code
-🔴 The format provided in the code repository is for understanding and communication purposes only. When using it, make sure to place all the code in the same directory.
+🔴 The format provided in the code repository is for understanding and communication purposes only. When using it, make sure to place all the code in the same directory.  
+The overall structure of the proposed method can be referenced in 'AMSD.m' and can be understood in conjunction with Figure 1.The core functionality of the code can be referenced in 'model/'.The 'utils/' folder contains a series of script files, such as those for color space conversion.
+
+
 
 
 ## 🔹 Result
