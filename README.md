@@ -19,6 +19,8 @@ The proposed algorithm framework is shown in Figure 1 and consists of three main
 The dataset used in this paper is a non-public dataset, which may involve the rights of other researchers. It can be obtained by contacting the authors upon a reasonable request. Thank you for your understanding!
 The code repository only provides 7 pairs of MS-PAN images in `Image/` for communication, learning, and discussion.The seven pairs of MS-PAN images provided are generated through smoothing and grayscale transformation techniques to create  simulated images.
 
+## 🔹 Code
+🔴 The format provided in the code repository is for understanding and communication purposes only. When using it, make sure to place all the code in the same directory.
 
 
 ## 🔹 Result
