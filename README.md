@@ -13,12 +13,12 @@ The structure of **AMSD** is illustrated in the figure below:
 
 *Fig. 1: Overall Architecture of AMSD.*
 
-The proposed algorithm framework is shown in Figure 1 and consists of three main stages: decomposition, fusion and reconstruction.  
-During the decomposition process, the MS image is first converted through color space conversion (CSC) to obtain the spectral component (SEC) and the spatial component (SAC).   
-At the same time, the structural attenuation (SA) index of SAC relative to the PAN image is calculated.   
-Then the SA is used to guide the adaptive multi-scale decomposition (AMSD) to decompose the PAN image into a series of high-frequency components (HF) as well as a low-frequency component (LF), where LF shares a spatial structure similar to the SAC of the MS image.These two components are used to generate the fused low-frequency component (FLF) through the fusion module.   
-The inverse transformation iAMSD then combines the FLF with the high-frequency components to reconstruct the fused spatial component (FSAC).   
-Finally, the inverse color space conversion (iCSC) combines FSAC with the spectral component SEC to produce the final fused result.
+- The proposed algorithm framework is shown in Figure 1 and consists of three main stages: decomposition, fusion and reconstruction.  
+- During the decomposition process, the MS image is first converted through color space conversion (CSC) to obtain the spectral component (SEC) and the spatial component (SAC).   
+- At the same time, the structural attenuation (SA) index of SAC relative to the PAN image is calculated.   
+- Then the SA is used to guide the adaptive multi-scale decomposition (AMSD) to decompose the PAN image into a series of high-frequency components (HF) as well as a low-frequency component (LF), where LF shares a spatial structure similar to the SAC of the MS image.These two components are used to generate the fused low-frequency component (FLF) through the fusion module.   
+- The inverse transformation iAMSD then combines the FLF with the high-frequency components to reconstruct the fused spatial component (FSAC).   
+- Finally, the inverse color space conversion (iCSC) combines FSAC with the spectral component SEC to produce the final fused result.
 
 ## 🔹 Dataset
 The dataset used in this paper is a non-public dataset, which may involve the rights of other researchers. It can be obtained by contacting the authors upon a reasonable request. Thank you for your understanding!
