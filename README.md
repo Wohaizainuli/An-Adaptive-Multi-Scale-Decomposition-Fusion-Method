@@ -21,7 +21,7 @@ The code repository only provides 7 pairs of MS-PAN images in `Image/` for commu
 
 ## 🔹 Code
 🔴 The format provided in the code repository is for understanding and communication purposes only. When using it, make sure to place all the code in the same directory.  
-The overall structure of the proposed method can be referenced in 'AMSD.m' and can be understood in conjunction with Figure 1.The core functionality of the code can be referenced in 'model/'.The 'utils/' folder contains a series of script files, such as those for color space conversion.
+The overall structure of the proposed method can be referenced in `AMSD.m` and can be understood in conjunction with Figure 1.The core functionality of the code can be referenced in `model/`.The 'utils/' folder contains a series of script files, such as those for color space conversion.
 
 
 
