@@ -17,6 +17,13 @@ The proposed algorithm framework is shown in Figure 1 and consists of three main
 
 
 
+## 🔹 Result
+The partial fusion results of AMSD are displayed in the figure below. Due to the confidentiality of the dataset, only a few fusion examples are provided for analysis and discussion.
+
+![image](https://github.com/Wohaizainuli/An-Adaptive-Multi-Scale-Decomposition-Fusion-Method/blob/main/Figure/r.jpg)
+
+*Fig. 4: Fusion Results of AMSD.*
+
 
 
 ## 🔹 Contributing & Contact
