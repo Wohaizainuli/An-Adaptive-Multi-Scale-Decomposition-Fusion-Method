@@ -1,2 +1,4 @@
-# An-Adaptive-Multi-Scale-Decomposition-Fusion-Method
-AMSD:An Adaptive Multi-Scale Decomposition Fusion Method for Remote Sensing Multispectral and Panchromatic Images
+# AMSD: An Adaptive Multi-Scale Decomposition Fusion Method for Remote Sensing Multispectral and Panchromatic Images
+> This repository provides a non-official and simplified version of our implementation, intended solely for academic communication and preliminary understanding.  
+> To protect the originality of our work and ensure compliance with data and intellectual property considerations, the **complete codebase will be released after the paper is officially published**.
+> We appreciate your understanding and support.
