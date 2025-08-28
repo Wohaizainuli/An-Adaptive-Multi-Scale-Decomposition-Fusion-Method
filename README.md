@@ -38,7 +38,7 @@ The partial fusion results of AMSD are displayed in the figure below.
 
 ![image](https://github.com/Wohaizainuli/An-Adaptive-Multi-Scale-Decomposition-Fusion-Method/blob/main/Figure/r.jpg)
 
-*Fig. 4: Fusion Results of AMSD.*
+*Fig. 2: Fusion Results of AMSD.*
 
 
 
