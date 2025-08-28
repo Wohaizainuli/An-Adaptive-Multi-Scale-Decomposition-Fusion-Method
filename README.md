@@ -9,7 +9,7 @@
 
 The structure of **AMSD** is illustrated in the figure below:
 
-![image]()
+![image](https://github.com/Wohaizainuli/An-Adaptive-Multi-Scale-Decomposition-Fusion-Method/blob/main/Figure/1.jpg)
 
 *Fig. 1: Overall Architecture of AMSD.*
 
